@@ -34,16 +34,16 @@ We will be focusing on computational strategies, modularity of code, sensitivity
 * You will know how to augment the standard overlapping generations model framework to answer policy questions.
 * You will know the computational methods to solve for the steady-state and transition path equilibria of the model.
 * You will learn computational tools such as:
-..* Constrained minimization
-..* Multi-equation root finder with occasionally binding constraints
-..* Interpolation
-..* Curve fitting
-..* Parametric and nonparametric estimation
+	* Constrained minimization
+	* Multi-equation root finder with occasionally binding constraints
+	* Interpolation
+	* Curve fitting
+	* Parametric and nonparametric estimation
 * You will learn coding and collaboration techniques such as:
-..* Best practices for Python coding ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
-..* Writing modular code with functions and objects
-..* Creating clear docstrings for functions
-..* Collaboration tools for writing code using Git and GitHub.com.
+	* Best practices for Python coding ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
+	* Writing modular code with functions and objects
+	* Creating clear docstrings for functions
+	* Collaboration tools for writing code using Git and GitHub.com.
 
 
 ## Grades
