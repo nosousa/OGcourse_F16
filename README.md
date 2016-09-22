@@ -43,21 +43,29 @@ We will be focusing on computational strategies, modularity of code, sensitivity
 	* Best practices for Python coding ([PEP 8](https://www.python.org/dev/peps/pep-0008/))
 	* Writing modular code with functions and objects
 	* Creating clear docstrings for functions
-	* Collaboration tools for writing code using Git and GitHub.com.
+	* Collaboration tools for writing code using [Git](https://git-scm.com/) and [GitHub.com](https://github.com/).
 
 
 ## Grades
 
-Assignment | Points | Percent |
------------|----------|--------|
-Homework   |   100  | 50% |
-Midterm    |    50  | 25% |
-Final Exam |    50  | 25% |
+Grades will be based on the four categories listed below with the corresponding weights.
 
+Assignment   | Points | Percent |
+-------------|--------|------|
+Homework     |   100  |  50% |
+Midterm      |    50  |  25% |
+Final Exam   |    50  |  25% |
+-------------|--------|------|
+Total points |   200  | 100% |
 
-## Disability services
+\begin{itemize}
+* **Homework:** I will assign 8 problem sets throughout the term, and I will drop your one lowest problem set score.
+	* You must write and submit your own computer code, although I encourage you to collaborate with your fellow students. I \textbf{DO NOT} want to see a bunch of copies of identical code. I **DO** want to see each of you learning how to code these problems so that you could do it on your own.
+	* Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
+	* Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
+* **Midterm:** The midterm will be given on the day listed in the Daily Course Outline below and will cover the material up to that point in the course.
+* **Final Exam:** The final exam will be comprehensive and will be given on Tuesday, Dec. 6, from 10:30a.m. to 12:30p.m. in our classroom.
 
-If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.
 
 ## Course schedule (lite)
 
@@ -187,3 +195,8 @@ All readings are required unless otherwise noted. Adjustments can be made throug
     * Chacon, Scott and Ben Straub, [*Pro Git: Everything You Need to Know about Git*](https://git-scm.com/book/en/v2), 2nd edition, Apress, 2014.
     * OSPC Data Visualizations project
 20. Collaboration: distributed data collection and analysis (cont.)
+
+
+## Disability services
+
+If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.
