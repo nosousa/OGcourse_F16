@@ -55,8 +55,7 @@ Assignment   | Points | Percent |
 Homework     |   100  |  50% |
 Midterm      |    50  |  25% |
 Final Exam   |    50  |  25% |
--------------|--------|------|
-Total points |   200  | 100% |
+**Total points** | **200** | **100%** |
 
 \begin{itemize}
 * **Homework:** I will assign 8 problem sets throughout the term, and I will drop your one lowest problem set score.
