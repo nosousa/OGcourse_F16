@@ -17,7 +17,7 @@ Advanced undergraduate or first-year graduate microeconomic theory, linear algeb
 
 ## Texts
 
-Evans, Richard W., _Overlapping Generations Models for Policy Analysis: Theory and Computation_, unpublished draft (2016).
+* Evans, Richard W., _Overlapping Generations Models for Policy Analysis: Theory and Computation_, unpublished draft (2016).
 
 
 ## Course description
@@ -107,14 +107,14 @@ Final Exam   |    50  |  25% |
 
 ## References
 
-+ De Nardi, Mariacristina, "[Quantitative Models of Wealth Inequality: A Survey](http://users.nber.org/~denardim/research/NBERwp21106.pdf)," National Bureau of Economic Research, NBER Working Paper 21106 (April 2015).
-+ DeBacker, Jason, Richard W. Evans, Evan Magnusson, Kerk L. Phillips, Shanthi Ramnath, and Isaac Swift, "[The Distributional Effects of Redistributional Tax Policy](https://sites.google.com/site/rickecon/WealthTax.pdf)," under review at *Quantitative Economics* (August 2016).
-+ DeBacker, Jason, Richard W. Evans, and Kerk L. Phillips, "[Integrating Microsimulation Tax Functions into a DGE Macroeconomic Model: A Canonical Example](https://sites.google.com/site/rickecon/DEP_10pct.pdf)," mimeo (August 2016).
-+ Evans, Richard W., *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished draft (2016).
-+ Nishiyama, Shinichi, "Fiscal Policy Effects in a Heterogeneous-agent OLG economy with an Aging Population," *Journal of Economic Dynamics & Control*, 61, pp. 114-132 (December 2015).
-+ Nishiyama, Shinichi and Kent Smetters, "Does Social Security Privatization Produce Efficiency Gains?," *Quarterly Journal of Economics*, 122:4, pp. 1677-1719 (November 2007).
-+ Peterman, William, "Reconciling Micro and Macro Estimates of the Frisch Labor Supply Elasticity," *Economic Inquiry*, 54:1, pp. 100-120 (January 2016).
-+ Weil, Philippe, "Overlapping Generations: The First Jubilee," *Journal of Economic Perspectives*, 22(4), 115-134 (Fall 2008).
+* De Nardi, Mariacristina, "[Quantitative Models of Wealth Inequality: A Survey](http://users.nber.org/~denardim/research/NBERwp21106.pdf)," National Bureau of Economic Research, NBER Working Paper 21106 (April 2015).
+* DeBacker, Jason, Richard W. Evans, Evan Magnusson, Kerk L. Phillips, Shanthi Ramnath, and Isaac Swift, "[The Distributional Effects of Redistributional Tax Policy](https://sites.google.com/site/rickecon/WealthTax.pdf)," under review at *Quantitative Economics* (August 2016).
+* DeBacker, Jason, Richard W. Evans, and Kerk L. Phillips, "[Integrating Microsimulation Tax Functions into a DGE Macroeconomic Model: A Canonical Example](https://sites.google.com/site/rickecon/DEP_10pct.pdf)," mimeo (August 2016).
+* Evans, Richard W., *Overlapping Generations Models for Policy Analysis: Theory and Computation*, unpublished draft (2016).
+* Nishiyama, Shinichi, "Fiscal Policy Effects in a Heterogeneous-agent OLG economy with an Aging Population," *Journal of Economic Dynamics & Control*, 61, pp. 114-132 (December 2015).
+* Nishiyama, Shinichi and Kent Smetters, "Does Social Security Privatization Produce Efficiency Gains?," *Quarterly Journal of Economics*, 122:4, pp. 1677-1719 (November 2007).
+* Peterman, William, "Reconciling Micro and Macro Estimates of the Frisch Labor Supply Elasticity," *Economic Inquiry*, 54:1, pp. 100-120 (January 2016).
+* Weil, Philippe, "Overlapping Generations: The First Jubilee," *Journal of Economic Perspectives*, 22(4), 115-134 (Fall 2008).
 
 
 ## Disability services
