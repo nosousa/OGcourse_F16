@@ -1,4 +1,4 @@
-# MACS 40000: Economic Policy Analysis with Overlapping Generations Models
+# MACS 40000: Economic Policy Analysis with Overlapping Generations Models #
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) |
 |--------------|--------------------------------------------------------------|
@@ -10,17 +10,17 @@
 * **Meeting day/time**: T,Th 10:30-11:50am, Saieh Hall, Room 102
 * Office hours also available by appointment
 
-## Prerequisites
+## Prerequisites ##
 
 Advanced undergraduate or first-year graduate microeconomic theory, linear algebra, multivariable calculus, recommended coding experience.
 
 
-## Texts
+## Texts ##
 
 * Evans, Richard W., _Overlapping Generations Models for Policy Analysis: Theory and Computation_, unpublished draft (2016).
 
 
-## Course description
+## Course description ##
 
 This course will study economic policy questions ideally addressed by the overlapping generations (OG) dynamic general equilibrium framework. OG models represent a rich class of macroeconomic general equilibrium model that is extremely useful for answering questions in which inequality, demographics, and individual heterogeneity are important. OG models are used extensively by the Joint Committee on Taxation, Congressional Budget Office, Department of the Treasury, and Federal Reserve System for policy analysis.
 
@@ -29,7 +29,7 @@ This course will train students how to set up and solve OG models. The standard 
 We will be focusing on computational strategies, modularity of code, sensitivity and robustness to assumptions, and policy questions that can be answered with this framework. Students can use whatever programming language they want, but I highly recommend you use Python 3.x ([Anaconda distribution](https://www.continuum.io/downloads)). I will be most helpful with code debugging and suggestions in Python. We will also study results and uses from recent papers listed in the "References" section below. The dates on which we will be covering those references are listed in the "Daily Course Outline" section below.
 
 
-## Course Objectives and Learning Outcomes
+## Course Objectives and Learning Outcomes ##
 
 * You will know how to augment the standard overlapping generations model framework to answer policy questions.
 * You will know the computational methods to solve for the steady-state and transition path equilibria of the model.
@@ -46,7 +46,7 @@ We will be focusing on computational strategies, modularity of code, sensitivity
 	* Collaboration tools for writing code using [Git](https://git-scm.com/) and [GitHub.com](https://github.com/).
 
 
-## Grades
+## Grades ##
 
 Grades will be based on the four categories listed below with the corresponding weights.
 
@@ -65,7 +65,7 @@ Final Exam   |    50  |  25% |
 * **Final Exam:** The final exam will be comprehensive and will be given on Tuesday, Dec. 6, from 10:30a.m. to 12:30p.m. in our classroom (Saieh 102).
 
 
-## Daily Course Schedule
+## Daily Course Schedule ##
 
 | Date | Day | Topic | Readings | Homework |
 |------|-----|-------|----------|----------|
@@ -100,7 +100,7 @@ Final Exam   |    50  |  25% |
 |         |     | **10:30a.m.-12:30p.m. in Saieh 102** |           |      |
 
 
-## References
+## References ##
 
 * De Nardi, Mariacristina, "[Quantitative Models of Wealth Inequality: A Survey](http://users.nber.org/~denardim/research/NBERwp21106.pdf)," National Bureau of Economic Research, NBER Working Paper 21106 (April 2015).
 * DeBacker, Jason, Richard W. Evans, Evan Magnusson, Kerk L. Phillips, Shanthi Ramnath, and Isaac Swift, "[The Distributional Effects of Redistributional Tax Policy](https://sites.google.com/site/rickecon/WealthTax.pdf)," under review at *Quantitative Economics* (August 2016).
@@ -112,6 +112,6 @@ Final Exam   |    50  |  25% |
 * Weil, Philippe, "Overlapping Generations: The First Jubilee," *Journal of Economic Perspectives*, 22(4), 115-134 (Fall 2008).
 
 
-## Disability services
+## Disability services ##
 
 If you need any special accommodations, please provide us with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with me how your accommodations may be implemented in this course.
