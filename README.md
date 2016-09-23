@@ -7,7 +7,7 @@
 | Office Hours | W 2:30-4:30pm |
 | GitHub | [rickecon](https://github.com/rickecon) |
 
-* **Meeting day/time**: T,Th 10:30-11:50am, TBD
+* **Meeting day/time**: T,Th 10:30-11:50am, Saieh Hall, Room 102
 * Office hours also available by appointment
 
 ## Prerequisites
@@ -62,15 +62,10 @@ Final Exam   |    50  |  25% |
 	* Problem set solutions, both written and code portions, will be turned in via a pull request from your private [GitHub.com](https://git-scm.com/) repository which is a fork of the class master repository on my account. (You will need to set up a GitHub account if you do not already have one.)
 	* Problem sets will be due on the day listed in the Daily Course Outline section of this syllabus (see below) unless otherwise specified. Late homework will not be graded.
 * **Midterm:** The midterm will be given on the day listed in the Daily Course Outline below and will cover the material up to that point in the course.
-* **Final Exam:** The final exam will be comprehensive and will be given on Tuesday, Dec. 6, from 10:30a.m. to 12:30p.m. in our classroom.
+* **Final Exam:** The final exam will be comprehensive and will be given on Tuesday, Dec. 6, from 10:30a.m. to 12:30p.m. in our classroom (Saieh 102).
 
 
 ## Daily Course Schedule
-
-
-
-
-## Course schedule (lite)
 
 | Date | Day | Topic | Readings | Homework |
 |------|-----|-------|----------|----------|
@@ -102,7 +97,7 @@ Final Exam   |    50  |  25% |
 | Dec.  1 | Th |                               |             | PS 8 |
 |         |    | *Exam preparation (reading) days, Dec. 1-2* |  |   |
 | **Dec. 6** | **T** | **Final Exam (comprehensive)** |      |      |
-|         |     | **10:30a.m.-12:30p.m. in TBD** |           |      |
+|         |     | **10:30a.m.-12:30p.m. in Saieh 102** |           |      |
 
 
 ## References
