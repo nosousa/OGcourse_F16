@@ -75,7 +75,7 @@ Final Exam   |    50  |  25% |
 | Sep. 29 | Th | 3-period-lived model: theory  | Ch. 3       | PS 1 |
 | Oct.  4 |  T | 3-period-lived model: theory  | Ch. 3       |      |
 | Oct.  6 | Th | 3-period-lived model: computation | Ch. 3   |      |
-| Oct. 11 |  T | $S$-period-lived model        | Ch. 4       | PS 2 |
+| Oct. 11 |  T | *S*-period-lived model        | Ch. 4       | PS 2 |
 | Oct. 13 | Th | Endogenous labor supply       | Ch. 5       | PS 3 |
 |         |    |                               | P (2016)    |      |
 | Oct. 18 |  T | Endogenous labor supply       | Ch. 5       |      |
