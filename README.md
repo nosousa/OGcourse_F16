@@ -72,28 +72,28 @@ Final Exam   |    50  |  25% |
 | Sep. 27 |  T | Python, Git, OG Models        | Chs. 1, 2   |      |
 |         |    |                               | Weil (2008) |      |
 |         |    |                               | N&S (2007)  |      |
-| Sep. 29 | Th | 3-period-lived model: theory  | Ch. 3       | PS 1 |
-| Oct.  4 |  T | 3-period-lived model: theory  | Ch. 3       |      |
-| Oct.  6 | Th | 3-period-lived model: computation | Ch. 3   |      |
-| Oct. 11 |  T | *S*-period-lived model        | Ch. 4       | PS 2 |
-| Oct. 13 | Th | Endogenous labor supply       | Ch. 5       | PS 3 |
+| Sep. 29 | Th | 3-period-lived model: theory  | Ch. 5       | PS 1 |
+| Oct.  4 |  T | 3-period-lived model: theory  | Ch. 5       |      |
+| Oct.  6 | Th | 3-period-lived model: computation | Ch. 5   |      |
+| Oct. 11 |  T | *S*-period-lived model        | Ch. 6       | PS 2 |
+| Oct. 13 | Th | Endogenous labor supply       | Ch. 7       | PS 3 |
 |         |    |                               | P (2016)    |      |
-| Oct. 18 |  T | Endogenous labor supply       | Ch. 5       |      |
-| Oct. 20 | Th | Bequests: simple              | Ch. 6       | PS 4 |
+| Oct. 18 |  T | Endogenous labor supply       | Ch. 7       |      |
+| Oct. 20 | Th | Bequests: simple              | Ch. 8       | PS 4 |
 |         |    |                               | D (2015)    |      |
 |         |    |                               | DEMPRS (2016) |    |
-| Oct. 25 |  T | Bequests: calibrated from SCF | Ch. 6       |      |
+| Oct. 25 |  T | Bequests: calibrated from SCF | Ch. 8       |      |
 |         |    |                               | D (2015)    |      |
-| **Oct. 27** | **Th** | **Midterm 1 (Chs. 1-6)** |          | PS 5 |
-| Nov.  1 |  T | Population demographics       | Ch. 7       |      |
+| **Oct. 27** | **Th** | **Midterm 1 (Chs. 1-8)** |          | PS 5 |
+| Nov.  1 |  T | Population demographics       | Ch. 9       |      |
 |         |    |                               | N (2015)    |      |
-| Nov.  3 | Th | Population demographics       |  Ch. 7      |      |
-| Nov.  8 | T  | Population demographics       |  Ch. 7      |      |
-| Nov. 10 | Th | Small open economy            |  Ch. 8      | PS6  |
-| Nov. 17 | Th | Unbalanced government budget constraint | Ch. 9 |  |
-| Nov. 22 | T  | Tax functions from microsimulation | Ch. 10 | PS 7 |
+| Nov.  3 | Th | Population demographics       |  Ch. 9      |      |
+| Nov.  8 | T  | Population demographics       |  Ch. 9      |      |
+| Nov. 10 | Th | Small open economy            |  Ch. 10     | PS6  |
+| Nov. 17 | Th | Unbalanced government budget constraint | Ch. 11 |  |
+| Nov. 22 | T  | Tax functions from microsimulation | Ch. 12 | PS 7 |
 |         |    |                               | DEP (2016)  |      |
-| Nov. 29 |  T | Tax functions from microsimulation | Ch. 10 |      |
+| Nov. 29 |  T | Tax functions from microsimulation | Ch. 12 |      |
 | Dec.  1 | Th |                               |             | PS 8 |
 |         |    | *Exam preparation (reading) days, Dec. 1-2* |  |   |
 | **Dec. 6** | **T** | **Final Exam (comprehensive)** |      |      |
